@@ -48,5 +48,5 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/TavossX/TavossX/blob/output/retrowave-synthwave-neon-ultrawide-wallpaper-thumb.jpg"  />
+  <img width = "100%" src="https://github.com/TavossX/TavossX/blob/output/retrowave-synthwave-neon-ultrawide-wallpaper-thumb.jpg"  />
 </div>
