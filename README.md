@@ -7,23 +7,11 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TavossX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true&order=1" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TavossX&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="135" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=TavossX&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="135" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TavossX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true&order=1" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TavossX&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=TavossX&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="130" alt="streak graph"  />
 
 ###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/otavio-martins-ficho-a0b154278/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.twitch.tv/tavossx" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  </a>
-  <a href="https://www.instagram.com/tavossx/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
 ###
 
