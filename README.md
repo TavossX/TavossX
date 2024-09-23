@@ -58,6 +58,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TavossX/TavossX/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/TavossX/TavossX/blob/output/github-contribution-grid-snake.gif)
 
 ###
