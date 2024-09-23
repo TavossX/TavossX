@@ -58,6 +58,6 @@
 
 ###
 
-![snake gif](https://github.com/TavossX/TavossX/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/TavossX/TavossX/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
