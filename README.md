@@ -48,5 +48,5 @@
 ###
 
 <div align="center">
-  <img height="200" src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJyczgza2NiMnVxbzJ3bjV1aGZlaXh4bTBoeGxhZGkzMnlnYTdueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WFHtCrM6jnIHhGzwUl/giphy.webp](https://c4.wallpaperflare.com/wallpaper/31/105/276/retrowave-synthwave-neon-ultrawide-wallpaper-thumb.jpg)"  />
+  <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJyczgza2NiMnVxbzJ3bjV1aGZlaXh4bTBoeGxhZGkzMnlnYTdueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WFHtCrM6jnIHhGzwUl/giphy.webp](https://c4.wallpaperflare.com/wallpaper/31/105/276/retrowave-synthwave-neon-ultrawide-wallpaper-thumb.jpg)"  />
 </div>
