@@ -43,7 +43,7 @@
 
 ###
 
-![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
