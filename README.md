@@ -43,10 +43,10 @@
 
 ###
 
-![snake gif](https://github.com/TavossX/TavossX/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 ###
 
 <div align="center">
-  <img width = "100%" src="https://github.com/TavossX/TavossX/blob/output/retrowave-synthwave-neon-ultrawide-wallpaper-thumb.jpg"  />
+  <img width = "70%" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLBYRYkMhqoihtwzZtmZf1mcFHFT7hUyFEzEQS2mknZnb_XkKVFxKxkKA-5rcmiRDmcaaHRSBa3X0vPXteBAZ604UptQl0H1dohy6kEIgdJl1ngXwRgIPYFm4Hm4_D_vfX9qu5TYytBm-_yPIt3IC74tSP3NoFGwgkufdW6PJsDsE53O-xoSx0jHQJ3A/s1600/WHITE-FERRARI-HEROSCREEN-5192023.png"/>
 </div>
