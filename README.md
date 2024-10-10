@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=300&size=26&duration=2500&pause=200&color=3A3C88&background=6DFFDE00&center=true&vCenter=true&width=435&lines=Ol%C3%A1++%F0%9F%A4%9E;Meu+nome+%C3%A9+Otavio;Bem-vindo+ao+meu+perfil!;Espero+que+goste+%F0%9F%91%BE" alt="Typing SVG" />
 </h1>
 
-####
+###
 
 <br clear="both">
 
@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TavossX&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="110" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=TavossX&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="110" alt="streak graph"  />
 
-####
+###
 
 ###
 
