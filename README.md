@@ -40,12 +40,3 @@
 ###
 
 <br clear="both">
-
-###
-
-
-###
-
-<div align="center">
-  <img width = "70%" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLBYRYkMhqoihtwzZtmZf1mcFHFT7hUyFEzEQS2mknZnb_XkKVFxKxkKA-5rcmiRDmcaaHRSBa3X0vPXteBAZ604UptQl0H1dohy6kEIgdJl1ngXwRgIPYFm4Hm4_D_vfX9qu5TYytBm-_yPIt3IC74tSP3NoFGwgkufdW6PJsDsE53O-xoSx0jHQJ3A/s1600/WHITE-FERRARI-HEROSCREEN-5192023.png"/>
-</div>
