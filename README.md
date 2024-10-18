@@ -42,5 +42,5 @@
 <br clear="both">
 
 <div align="center"> 
-  <img src=".github/workflows/Android Expanded - 1.png" width="100%"  />
+  <img src=".github/workflows/Ayrton senna.jpg" width="100%"  />
 </div>
