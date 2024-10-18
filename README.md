@@ -42,5 +42,5 @@
 <br clear="both">
 
 <div align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src=".github/workflows/Android Expanded - 1.png" width="100%"  />
 </div>
