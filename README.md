@@ -30,5 +30,5 @@
 <br clear="both">
 
 <div align="center"> 
-  <img src=".github/workflows/Ayrton senna.jpg" width="100%"  /> // photo made by me especifically for my github 
+  <img src=".github/workflows/Ayrton senna.jpg" width="100%"  /> <!-- photo made by me especifically for my github  -->
 </div>
